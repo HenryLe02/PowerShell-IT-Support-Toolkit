@@ -358,4 +358,4 @@ This project also improved my confidence working with the Windows command-line e
 
 📄 **View Full Lab Document**
 
-[View Full Project Documentation](./Project-5-Powershell.pdf)
+[View Full Project Documentation]([./Project-5-Powershell.pdf](https://github.com/HenryLe02/PowerShell-IT-Support-Toolkit/blob/main/Project-5-Powershell.pdf))
